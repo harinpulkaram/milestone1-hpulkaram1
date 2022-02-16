@@ -1,0 +1,7 @@
+import request
+import pprint
+
+r = request.get('https://api.themoviedb.org/3/movie/64690?api_key=17084064f53176241a41dbed821dcea3')
+r.json
+
+pprint.pprint(r.json())
