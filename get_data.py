@@ -81,4 +81,3 @@ class Getmovie:
     Getratings=Movies[x].ratings
     Getrevenue= Movies[x].boxOffice
 
-print(Getmovie.Getcast)
