@@ -1,5 +1,5 @@
 # project1-hpulkaram1
-## pylint as the python interpreter. flask, the movie database, and wikipedia api is api calls. 
+## pylint as the python interpreter. flask, the movie database, and wikipedia api is api calls. we are using python, html, css, and json commands, within our python to call the api. 
 ## What are at least 2 technical issues you encountered with your project? How did you fix them?
 ### I could not get the html to show the result of the function, I could only get it to show the "object at function ..." so instead I just simplified my getMovie class and just had variables instead of defined objects
 ### Pulling the image from the api path was extremely difficult, I used html image formatting to finally get it to work
